@@ -1,4 +1,4 @@
-# https-github.com-awslabs-serverless-image-resizing
+# awslabs-serverless-image-resizing
 Customized version of the distribution from the https://github.com/awslabs/serverless-image-resizing
 
 *1.01 2018-01-04*
